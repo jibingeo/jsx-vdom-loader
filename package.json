@@ -1,0 +1,18 @@
+{
+  "name": "jsx-vdom-loader",
+  "version": "0.0.1",
+  "description": "jsx to virtual-dom loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jibin george",
+  "dependencies": {
+    "jsx-transform": "^0.12.1",
+    "loader-utils": "^0.2.6"
+  },
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/jibingeo/jsx-vdom-loader.git"
+  }
+}
